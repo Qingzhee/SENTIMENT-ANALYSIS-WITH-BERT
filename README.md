@@ -1,10 +1,5 @@
 # Movie Sentiment Analysis Project
 
-**Authors:**  
-- Tan Qing Zhe  
-- Kate Tan  
-- Erika Chia
-
 ## Introduction
 
 In this project, we perform sentiment analysis on movie reviews to determine whether a review expresses a positive or negative sentiment. Movie sentiment analysis is a valuable tool for understanding audience feedback, predicting box-office success, and tailoring marketing strategies. We explore several methods ranging from traditional machine learning to deep learning approaches to compare their effectiveness on this task.
